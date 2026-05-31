@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerconnect",
+        "uuid": 4608240,
+        "checksum": "hhhzgo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
